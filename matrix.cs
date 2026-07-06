@@ -2,7 +2,7 @@
 
 class matrix
 {
-    static void Main(string[] args)
+    public static void Run()
     {
         int[,] matrix = new int[2, 3];
 
