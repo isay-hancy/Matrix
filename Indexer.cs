@@ -10,7 +10,7 @@ class IndexerProgram
         set { data[index] = value; }
     }
 
-     static void Main(string[] args)
+    public static void Run()
     {
         IndexerProgram obj = new IndexerProgram();
 
