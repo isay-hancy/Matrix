@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class matrix
 {
     static void Main(string[] args)
     {
